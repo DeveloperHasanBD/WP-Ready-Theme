@@ -38,7 +38,7 @@ $understrap_includes = array(
 	'/deprecated.php',                      // Load deprecated functions.
 	'/tgm.php',                      	// Load deprecated functions.
 	'/wp-bakery-shortcode.php',             // Load deprecated functions.
-// 	'/acf-gutenberg-blocks.php',            // Load deprecated functions.
+// 	'/gutenberg-blocks.php',            // Load deprecated functions.
 //      '/elementor-shortcode.php',             // Load deprecated functions.
 	
 
