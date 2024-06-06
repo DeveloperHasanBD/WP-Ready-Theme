@@ -1,5 +1,5 @@
 <?php
-function lagmp_custom_admin_menu()
+function rda_admin_menu()
 {
     add_menu_page(
         __('CSV Export/Import', 'redapple'),
@@ -11,4 +11,4 @@ function lagmp_custom_admin_menu()
         90
     );
 }
-// add_action('admin_menu', 'lagmp_custom_admin_menu');
+// add_action('admin_menu', 'rda_admin_menu');
