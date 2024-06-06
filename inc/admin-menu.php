@@ -6,7 +6,7 @@ function rda_admin_menu()
         __('CSV Export/Import', 'redapple'),
         'manage_options',
         'csv-ex-imp',
-        'wtb_csv_exp_imp',
+        'csv_exp_imp',
         'dashicons-media-spreadsheet',
         90
     );
