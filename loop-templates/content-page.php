@@ -9,9 +9,9 @@
 // Exit if accessed directly.
 defined('ABSPATH') || exit;
 ?>
-<div class="redapple_comtainer_width">
+<main>
 	<?php
 	the_content();
 	understrap_link_pages();
 	?>
-</div>
+</main>
