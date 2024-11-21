@@ -81,6 +81,13 @@ function wp_bakery_dropdown_css()
 		.wpb-input.wpb-select.dropdown.yes {
 			max-width: 100%;
 		}
+
+		.wpb-textarea_raw_html {
+	            color: #000 !important; 
+	            font-size: 16px !important; 
+	            height: 120px;
+	        }
+		
 	</style>
 <?php
 }
